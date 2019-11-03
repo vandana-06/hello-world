@@ -1,0 +1,22 @@
+Aim:
+Finding distance using ultrasonic sensor.
+Theory:
+ The ultrasonic sensor uses sonar to determine distance to an object like bats do. It offers excellent non-contact range detection with high accuracy and stable readings in an easy-to-use package. It comes complete with ultrasonic transmitter and receiver modules
+The transmitter (trig pin) sends a signal: a high-frequency sound.
+When the signal finds an object, it is reflected and…
+… the transmitter (echo pin) receives it.
+Learning and Observations:
+The concept of ultrasonic sensor that how it senses the object under its range and displays the distance .
+Ultrasonic sensors emit short, high-frequency sound pulses at regular intervals. ... If they strike an object, then they are reflected back as echo signals to the sensor, which itself computes the distance to the target based on the time-span between emitting the signal and receiving the echo.
+Problems and Troulbeshooting:
+Loose connection of cables.
+Loose connections of ultrasonic sensor.
+Error in programming or coding.
+Precautions:
+While unplugging the USB ,pull the plug nt the cable.
+Connectionns should be tight and according to the coding done on audrino software.
+Handle the apparatus like AUDRINO BOARD ,ultrasonic sensor and breadboard carefully.
+Learning Outcomes:
+Working and appearence of Audrino.
+Working of an ultrasonic sensor.
+Design and working of a breadboard.
